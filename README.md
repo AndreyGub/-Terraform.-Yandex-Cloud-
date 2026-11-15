@@ -28,8 +28,10 @@
 - ответы на вопросы.
 
 ### Ответ: 
-1.  
-2.  ыв
+1.  <img width="1284" height="268" alt="image" src="https://github.com/user-attachments/assets/dea6a219-e163-4c09-acc0-dc44382fab0d" />
+
+2.  <img width="501" height="70" alt="image" src="https://github.com/user-attachments/assets/ac1695a9-9ba2-4149-a3f3-425e4dd55980" />
+
 3.
 4.  ыв
 5.  ыв
