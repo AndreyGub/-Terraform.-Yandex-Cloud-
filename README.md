@@ -61,6 +61,10 @@ core_fraction = 5: Устанавливает гарантированную д�
 2. Скопируйте блок ресурса и создайте с его помощью вторую ВМ в файле main.tf: **"netology-develop-platform-db"** ,  ```cores  = 2, memory = 2, core_fraction = 20```. Объявите её переменные с префиксом **vm_db_** в том же файле ('vms_platform.tf').  ВМ должна работать в зоне "ru-central1-b"
 3. Примените изменения.
 
+### Ответ: 
+ВМ должна работать в зоне "ru-central1-b" --- к сожалению в этой зоне получилось создать, пришлось сделать в ru-central1-d
+
+<img width="1293" height="128" alt="image" src="https://github.com/user-attachments/assets/5ca82108-b129-4e0f-9fa1-9fde0ad3eff6" />
 
 ### Задание 4
 
