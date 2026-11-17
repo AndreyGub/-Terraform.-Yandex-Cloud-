@@ -28,9 +28,11 @@
 - ответы на вопросы.
 
 ### Ответ: 
-1.  <img width="1284" height="268" alt="image" src="https://github.com/user-attachments/assets/dea6a219-e163-4c09-acc0-dc44382fab0d" />
+1.  <img width="1326" height="65" alt="image" src="https://github.com/user-attachments/assets/c887b638-7df7-4879-a839-1c4df83203e3" />
 
-2.  <img width="501" height="70" alt="image" src="https://github.com/user-attachments/assets/ac1695a9-9ba2-4149-a3f3-425e4dd55980" />
+
+2.  <img width="357" height="45" alt="image" src="https://github.com/user-attachments/assets/d13bf28a-f609-4a18-92c2-0278e3e4100a" />
+
 
 3. как в процессе обучения могут пригодиться параметры ```preemptible = true``` и ```core_fraction=5``` в параметрах ВМ.
 
@@ -46,8 +48,13 @@ core_fraction = 5: Устанавливает гарантированную д�
 1. Замените все хардкод-**значения** для ресурсов **yandex_compute_image** и **yandex_compute_instance** на **отдельные** переменные. К названиям переменных ВМ добавьте в начало префикс **vm_web_** .  Пример: **vm_web_name**.
 2. Объявите нужные переменные в файле variables.tf, обязательно указывайте тип переменной. Заполните их **default** прежними значениями из main.tf. 
 3. Проверьте terraform plan. Изменений быть не должно. 
-
-
+### Ответ:
+1. <img width="1057" height="558" alt="image" src="https://github.com/user-attachments/assets/45408924-47b5-4db8-a62f-decdbde5cc89" />
+2. <img width="989" height="561" alt="image" src="https://github.com/user-attachments/assets/5d812fba-683d-40b1-bd2a-2576e52e819c" />
+3. <img width="614" height="158" alt="image" src="https://github.com/user-attachments/assets/8b2f0b8b-3415-44c6-a173-ae7e6232bbfc" />
+4. <img width="787" height="151" alt="image" src="https://github.com/user-attachments/assets/fcc5f64f-df9d-487d-aabf-fd6fbd4fa455" />
+5. <img width="1270" height="64" alt="image" src="https://github.com/user-attachments/assets/2e92a55d-4a4d-4ca4-a76a-3b84e8e45fdd" />
+6. 
 ### Задание 3
 
 1. Создайте в корне проекта файл 'vms_platform.tf' . Перенесите в него все переменные первой ВМ.
