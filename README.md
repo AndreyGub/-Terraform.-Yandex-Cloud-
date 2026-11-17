@@ -66,6 +66,10 @@ core_fraction = 5: Устанавливает гарантированную д�
 
 <img width="1293" height="128" alt="image" src="https://github.com/user-attachments/assets/5ca82108-b129-4e0f-9fa1-9fde0ad3eff6" />
 
+
+<img width="1026" height="606" alt="image" src="https://github.com/user-attachments/assets/67c73020-5e28-47f9-8f2d-668510e0d0d5" />
+
+
 ### Задание 4
 
 1. Объявите в файле outputs.tf **один** output , содержащий: instance_name, external_ip, fqdn для каждой из ВМ в удобном лично для вас формате.(без хардкода!!!)
