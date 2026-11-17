@@ -64,11 +64,12 @@ core_fraction = 5: Устанавливает гарантированную д�
 ### Ответ: 
 ВМ должна работать в зоне "ru-central1-b" --- к сожалению в этой зоне получилось создать, пришлось сделать в ru-central1-d
 
-<img width="1293" height="128" alt="image" src="https://github.com/user-attachments/assets/5ca82108-b129-4e0f-9fa1-9fde0ad3eff6" />
+1. <img width="1293" height="128" alt="image" src="https://github.com/user-attachments/assets/5ca82108-b129-4e0f-9fa1-9fde0ad3eff6" />
 
 
-<img width="1026" height="606" alt="image" src="https://github.com/user-attachments/assets/67c73020-5e28-47f9-8f2d-668510e0d0d5" />
+2. <img width="1026" height="606" alt="image" src="https://github.com/user-attachments/assets/67c73020-5e28-47f9-8f2d-668510e0d0d5" />
 
+3. <img width="636" height="265" alt="image" src="https://github.com/user-attachments/assets/236247e1-cf3f-41e1-a7c4-124bc7aab7a9" />
 
 ### Задание 4
 
