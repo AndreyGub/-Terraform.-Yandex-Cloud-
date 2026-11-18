@@ -138,6 +138,10 @@ resource "yandex_compute_instance" "platform" {
 ### Ответ:
 
 
+
+<img width="903" height="264" alt="image" src="https://github.com/user-attachments/assets/52cdb06a-1d45-4a40-acbf-6243bc3e1665" />
+
+
 ------
 
 ## Дополнительное задание (со звёздочкой*)
