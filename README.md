@@ -78,6 +78,9 @@ core_fraction = 5: Устанавливает гарантированную д�
 
 В качестве решения приложите вывод значений ip-адресов команды ```terraform output```.
 
+### Ответ: 
+<img width="697" height="251" alt="image" src="https://github.com/user-attachments/assets/430bc1a9-ebd5-4c7b-8991-d8f0ec5ce2bb" />
+
 
 ### Задание 5
 
