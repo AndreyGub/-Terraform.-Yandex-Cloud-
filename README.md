@@ -89,6 +89,11 @@ core_fraction = 5: Устанавливает гарантированную д�
 3. Примените изменения.
 
 ### Ответ:
+resource "yandex_compute_instance" "platform" {
+  name = local.vm_web_name # <-- Изменил на local
+  # ...
+}
+
 1. <img width="899" height="253" alt="image" src="https://github.com/user-attachments/assets/3d3040aa-e48d-4af8-a46e-11ed84da8608" />
 2. видим, что Terraform не заметил разницы между старым хардкодом и новыми динамическими именами
 
